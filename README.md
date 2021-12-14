@@ -2,7 +2,7 @@
   <h1>Vicenzo Palazzo</h1>
 
   <p>
-    <strong>Side Projects developer, in the free time Master Student in Computer Science.</strong>
+    <strong>Open Source Engineer that is Stealing From Smart People, and this sentence was stolen too from <a href="https://rusty.ozlabs.org/">Rusty Russell's Coding Blog</a></strong>
   </p>
 
   <p>
@@ -22,11 +22,14 @@
   
 </div>
 
+#### 
+
 - :speech_balloon: libera (IRC): `vincenzopalazzo`
 - :speech_balloon: matrix: @vincenzopalazzo:matrix.org
 - :speech_balloon: keybase: https://keybase.io/vincenzopalazzo
 - :earth_asia: twitter: https://twitter.com/PalazzoVincenzo
 - :earth_asia: fediverse: https://x0f.org/@vincenzopalazzo
+- :black_nib: medium: https://vincenzopalazzo.medium.com
 
 ##  Official roles in some external repositories
 
@@ -36,6 +39,7 @@
 - Official Mantainer of [graphql-flutter](https://github.com/zino-app/graphql-flutter)
 - Contributor of [c-lightning](https://github.com/ElementsProject/lightning)
 - Researcher in [lnmetrics](https://github.com/LNOpenMetrics)
+
 
 :zap: Lightning Network node: https://bruce.lnmetrics.info
 
