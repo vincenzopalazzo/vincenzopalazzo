@@ -37,5 +37,6 @@
 - Contributor of [c-lightning](https://github.com/ElementsProject/lightning)
 - Researcher in [lnmetrics](https://github.com/LNOpenMetrics)
 
-Lightning Network node: https://bruce.lnmetrics.info/
+Lightning Network node: https://bruce.lnmetrics.info
+
 GPG Fingerprint: `DDE3 16C1 0965 F23D CCDD 0420 8B6D C2B8 70B8 0D5F`
