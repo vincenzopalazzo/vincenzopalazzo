@@ -22,11 +22,11 @@
   
 </div>
 
-- libera (IRC): `vincenzopalazzo`
-- matrix: @vincenzopalazzo:matrix.org
-- keybase: https://keybase.io/vincenzopalazzo
-- twitter: https://twitter.com/PalazzoVincenzo
-- fediverse: https://x0f.org/@vincenzopalazzo
+- :speech_balloon: libera (IRC): `vincenzopalazzo`
+- :speech_balloon: matrix: @vincenzopalazzo:matrix.org
+- :speech_balloon: keybase: https://keybase.io/vincenzopalazzo
+- :earth_asia: twitter: https://twitter.com/PalazzoVincenzo
+- :earth_asia: fediverse: https://x0f.org/@vincenzopalazzo
 
 ##  Official roles in some external repositories
 
@@ -37,6 +37,6 @@
 - Contributor of [c-lightning](https://github.com/ElementsProject/lightning)
 - Researcher in [lnmetrics](https://github.com/LNOpenMetrics)
 
-Lightning Network node: https://bruce.lnmetrics.info
+:zap: Lightning Network node: https://bruce.lnmetrics.info
 
-GPG Fingerprint: `DDE3 16C1 0965 F23D CCDD 0420 8B6D C2B8 70B8 0D5F`
+:key: GPG Fingerprint: `DDE3 16C1 0965 F23D CCDD 0420 8B6D C2B8 70B8 0D5F`
