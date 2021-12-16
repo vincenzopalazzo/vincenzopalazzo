@@ -27,6 +27,7 @@
 - :speech_balloon: libera (IRC): `vincenzopalazzo`
 - :speech_balloon: matrix: @vincenzopalazzo:matrix.org
 - :speech_balloon: keybase: https://keybase.io/vincenzopalazzo
+- 💬 discord: `vincenzopalazzo#3884`
 - :earth_asia: twitter: https://twitter.com/PalazzoVincenzo
 - :earth_asia: fediverse: https://x0f.org/@vincenzopalazzo
 - :black_nib: medium: https://vincenzopalazzo.medium.com
