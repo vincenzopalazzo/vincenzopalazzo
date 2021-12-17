@@ -31,6 +31,7 @@
 - :earth_asia: twitter: https://twitter.com/PalazzoVincenzo
 - :earth_asia: fediverse: https://x0f.org/@vincenzopalazzo
 - :black_nib: medium: https://vincenzopalazzo.medium.com
+- 📺 twich: https://www.twitch.tv/vincenzopalazzodev
 
 ##  Official roles in some external repositories
 
