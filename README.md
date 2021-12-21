@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Vicenzo Palazzo</h1>
+  <h1>Vincenzo Palazzo</h1>
 
   <p>
     <strong>Open Source Engineer that is Stealing from Smart People, and this sentence was stolen too from <a href="https://rusty.ozlabs.org/">Rusty Russell's Coding Blog</a></strong>
