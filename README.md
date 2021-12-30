@@ -38,7 +38,7 @@
 - Official Maintainer of [Material-UI-Swing](https://github.com/vincenzopalazzo/material-ui-swing)
 - Official Maintainer of [lnprototest](https://github.com/rustyrussell/lnprototest)
 - Official Maintainer of [rust-clightning-rpc](https://github.com/laanwj/rust-clightning-rpc)
-- Official Mantainer of [graphql-flutter](https://github.com/zino-app/graphql-flutter)
+- Official Maintainer of [graphql-flutter](https://github.com/zino-app/graphql-flutter)
 - Contributor of [c-lightning](https://github.com/ElementsProject/lightning)
 - Researcher in [lnmetrics](https://github.com/LNOpenMetrics)
 
