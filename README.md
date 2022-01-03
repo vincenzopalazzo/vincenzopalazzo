@@ -46,3 +46,5 @@
 :zap: Lightning Network node: https://bruce.lnmetrics.info
 
 :key: GPG Fingerprint: `DDE3 16C1 0965 F23D CCDD 0420 8B6D C2B8 70B8 0D5F`
+
+All the work made on c-lightning is supported by [brink](https://brink.dev) grant
