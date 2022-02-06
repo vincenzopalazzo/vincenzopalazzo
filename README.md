@@ -41,7 +41,7 @@
 - Official Maintainer of [rust-clightning-rpc](https://github.com/laanwj/rust-clightning-rpc)
 - Official Maintainer of [graphql-flutter](https://github.com/zino-app/graphql-flutter)
 - Contributor of [c-lightning](https://github.com/ElementsProject/lightning)
-- Contributor of [v lang](https://github.com/vlang/v)
+- Contributor of [vlang](https://github.com/vlang/v)
 - Researcher in [lnmetrics](https://github.com/LNOpenMetrics)
 
 
