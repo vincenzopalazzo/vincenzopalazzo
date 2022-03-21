@@ -46,6 +46,7 @@
 
 
 :zap: Lightning Network node: https://bruce.lnmetrics.info
+:zap: BTC donation https://coinos.io/vincenzopalazzo
 
 :key: GPG Fingerprint: `DDE3 16C1 0965 F23D CCDD 0420 8B6D C2B8 70B8 0D5F`
 
