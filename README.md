@@ -32,7 +32,7 @@
 - :earth_asia: fediverse: https://x0f.org/@vincenzopalazzo
 - :black_nib: medium: https://vincenzopalazzo.medium.com
 - :black_nib: dev.to: https://dev.to/vincenzopalazzo
-- 📺 twich: https://www.twitch.tv/vincenzopalazzodev
+- 📺 twitch: https://www.twitch.tv/vincenzopalazzodev
 
 ##  Official roles in some external repositories
 
