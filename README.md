@@ -42,8 +42,10 @@
 - Official Maintainer of [rust-clightning-rpc](https://github.com/laanwj/rust-clightning-rpc)
 - Official Maintainer of [graphql-flutter](https://github.com/zino-app/graphql-flutter)
 - Contributor of [c-lightning](https://github.com/ElementsProject/lightning)
-- Contributor of [vlang](https://github.com/vlang/v)
+- Contributor of [vlang](https://github.com/vlang/v) compiler
 - Researcher in [lnmetrics](https://github.com/LNOpenMetrics)
+- Contributor of [rust](https://github.com/rust-lang/rust) compiler
+- Community Hero of [gitpod](https://www.gitpod.io/)
 
 
 :zap: Lightning Network node: https://bruce.lnmetrics.info
