@@ -16,7 +16,7 @@
     Github Sponsor
   </a>
   <span>|</span>
-  <a href="https://deploy-preview-124--bitcoindevlist.netlify.app/vincenzopalazzo/#vincenzopalazzo">
+  <a href="https://bitcoindevlist.com/vincenzopalazzo/#vincenzopalazzo">
     Bitcoin Sponsor
   </a>
   
