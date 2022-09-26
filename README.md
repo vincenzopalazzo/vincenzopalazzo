@@ -40,7 +40,7 @@
 
 - Official Maintainer of [Material-UI-Swing](https://github.com/vincenzopalazzo/material-ui-swing)
 - Official Maintainer of [lnprototest](https://github.com/rustyrussell/lnprototest)
-- Official Maintainer of cln4rust](https://github.com/laanwj/cln4rust)
+- Official Maintainer of ][cln4rust](https://github.com/laanwj/cln4rust)
 - Official Maintainer of [graphql-flutter](https://github.com/zino-app/graphql-flutter)
 - Contributor of [core lightning](https://github.com/ElementsProject/lightning)
 - Contributor of [vlang](https://github.com/vlang/v) compiler
