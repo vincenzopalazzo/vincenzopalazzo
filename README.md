@@ -9,7 +9,7 @@
   </p>
 
   <h4>
-    <a href="https://vincenzopalazzo.github.io/">Web Site</a>
+    <a href="https://blog-vincenzopalazzo.netlify.app"> Personal Blog</a>
   </h4>
  
   <a href="https://github.com/sponsors/vincenzopalazzo">
