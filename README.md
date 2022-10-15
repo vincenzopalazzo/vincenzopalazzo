@@ -43,7 +43,6 @@
 - Official Maintainer of [cln4rust](https://github.com/laanwj/cln4rust)
 - Official Maintainer of [graphql-flutter](https://github.com/zino-app/graphql-flutter)
 - Contributor of [core lightning](https://github.com/ElementsProject/lightning)
-- Contributor of [vlang](https://github.com/vlang/v) compiler
 - Researcher in [lnmetrics](https://github.com/LNOpenMetrics)
 - Contributor of [rust](https://github.com/rust-lang/rust) compiler
 - Owning [async main and test initialtive](https://vincenzopalazzo.github.io/async-main-and-tests-initiative/index.html) on Rust
