@@ -46,7 +46,7 @@
 - Contributor of [vlang](https://github.com/vlang/v) compiler
 - Researcher in [lnmetrics](https://github.com/LNOpenMetrics)
 - Contributor of [rust](https://github.com/rust-lang/rust) compiler
-- Owning [async main and test initialtive](https://vincenzopalazzo.github.io/async-main-and-tests-initiative/index.html) on Rustc
+- Owning [async main and test initialtive](https://vincenzopalazzo.github.io/async-main-and-tests-initiative/index.html) on Rust
 
 ## Collab
 
