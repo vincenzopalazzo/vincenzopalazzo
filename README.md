@@ -34,7 +34,7 @@
 - :black_nib: medium: https://vincenzopalazzo.medium.com
 - :black_nib: dev.to: https://dev.to/vincenzopalazzo
 - 📺 twitch: https://www.twitch.tv/vincenzopalazzodev
-- 👨‍💻 radicle: https://app.radicle.network/vincenzopalazzo.radicle.eth
+- 👨‍💻 radicle: [https://radicle.xyz/vincenzopalazzo](https://app.radicle.xyz/vincenzopalazzo.radicle.eth)
 
 ##  Official roles in some external repositories
 
