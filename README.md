@@ -2,7 +2,7 @@
   <h1>Vincenzo Palazzo</h1>
 
   <p>
-    <strong>Open Source Engineer that is Stealing from Smart People, and this sentence was stolen too from <a href="https://rusty.ozlabs.org/">Rusty Russell's Coding Blog</a></strong>
+    <strong>Passion, action and noble intentions create progress!</strong>
   </p>
 
   <p>
