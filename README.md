@@ -34,7 +34,8 @@
 - :black_nib: medium: https://vincenzopalazzo.medium.com
 - :black_nib: dev.to: https://dev.to/vincenzopalazzo
 - 📺 twitch: https://www.twitch.tv/vincenzopalazzodev
-- 👨‍💻 radicle: `z6Mku2RzwmYe4qbxPhS2ncEjuzdbEwr5vsQXvnoaGyMBraAW`
+- ☁️ radicle seed: https://app.radicle.xyz/seeds/rad.hedwing.dev 
+- 👨‍💻 radicle nid: `z6Mku2RzwmYe4qbxPhS2ncEjuzdbEwr5vsQXvnoaGyMBraAW`
 
 ##  Official roles in some external repositories
 
