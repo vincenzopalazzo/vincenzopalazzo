@@ -31,6 +31,7 @@
 - 💬 vida.live: https://vida.live/palazzovincenzo
 - :earth_asia: twitter: https://twitter.com/PalazzoVincenzo
 - :earth_asia: fediverse: https://x0f.org/@vincenzopalazzo
+- 🌏 nostr: [npub1wg2m9ku823y5l5699dlj6294dc3cvwu4g34ldrtelxq20t27clxsd7dzaw](https://app.coracle.social/nprofile1qqs8y9djmwr4gj206dzjkled9z6kugux8w25g6lk34ulnq98440v0ngpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3wamnwvaz7tmzw33j66t5v9kxjcfwdahxc6twv5q3samnwvaz7tmjwdekccte9enxjct5dfskvtnrdaksz9nhwden5te0wfjkccte9ehx7um5wghxyctwvsq3samnwvaz7tmvd9nksarwd9hxwun9d3shjtnrdakspm7kn0)
 - :black_nib: medium: https://vincenzopalazzo.medium.com
 - :black_nib: dev.to: https://dev.to/vincenzopalazzo
 - 📺 twitch: https://www.twitch.tv/vincenzopalazzodev
