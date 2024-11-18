@@ -9,7 +9,7 @@
   </p>
 
   <h4>
-    <a href="https://blog.hedwing.dev"> Personal Blog</a>
+    <a href="https://blog.hedwig.sh"> Personal Blog</a>
   </h4>
  
   <a href="https://github.com/sponsors/vincenzopalazzo">
