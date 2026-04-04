@@ -28,7 +28,6 @@
 - :speech_balloon: matrix: @vincenzopalazzo:matrix.org
 - :speech_balloon: keybase: https://keybase.io/vincenzopalazzo
 - 💬 discord: `vincenzopalazzo#3884`
-- 💬 vida.live: https://vida.live/palazzovincenzo
 - :earth_asia: x: https://twitter.com/PalazzoVincenzo
 - :earth_asia: fediverse: https://x0f.org/@vincenzopalazzo
 - 🌏 nostr: [npub1wg2m9ku823y5l5699dlj6294dc3cvwu4g34ldrtelxq20t27clxsd7dzaw](https://nosta.me/7215b2db8754494fd3452b7f2d28b56e23863b95446bf68d79f980a7ad5ec7cd)
@@ -45,12 +44,9 @@
 
 ## Collab
 
-- ☁️ Community Hero of [gitpod](https://www.gitpod.io/)
 - 💻 [starlabs referal](https://bit.ly/3PRTNUH)
 
 ## Appendix
-
-:zap: Lightning Network node: https://bruce.lnmetrics.info
 
 :zap: BTC donation https://coinos.io/vincenzopalazzo
 
