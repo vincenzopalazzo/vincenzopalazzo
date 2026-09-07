@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Vincenzo Palazzo</h1>
-  <p><strong>Lightning protocol work: LDK, BOLT12, and lampo.rs.</strong></p>
+  <p><strong>Lightning protocol work, and local AI that actually runs on your hardware.</strong></p>
   <p>
     <a href="https://github.com/sponsors/vincenzopalazzo">GitHub Sponsors</a>
     ·
@@ -10,14 +10,19 @@
   </p>
 </div>
 
-I work on the Lightning Network as infrastructure: protocol review in [rust-lightning / LDK](https://github.com/lightningdevkit/rust-lightning), BOLT12, [lnprototest](https://github.com/rustyrussell/lnprototest), and [lampo.rs](https://github.com/vincenzopalazzo/lampo.rs).
+Two independent tracks, same funding page.
 
-If you use LDK, Core Lightning, or BOLT12, [sponsoring](https://github.com/sponsors/vincenzopalazzo) is how the independent part of that work stays funded.
+**Lightning** — protocol review in [rust-lightning / LDK](https://github.com/lightningdevkit/rust-lightning), BOLT12, [lnprototest](https://github.com/rustyrussell/lnprototest), and [lampo.rs](https://github.com/vincenzopalazzo/lampo.rs).
+
+**Local AI** — with [MiaAI-Lab](https://github.com/MiaAI-Lab): I help maintain [sparkDash](https://github.com/MiaAI-Lab/sparkDash) (multi-DGX Spark monitoring) and recipes such as [Qwen3.8-27B on SGLang](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark). Announced [here](https://x.com/MiaAI_lab/status/2096562833655783704).
+
+If you use LDK, BOLT12, or you run models on DGX Spark / local hardware, [sponsoring](https://github.com/sponsors/vincenzopalazzo) is how the independent part of that work stays funded.
 
 **Now**
 - LDK / rust-lightning (BOLT12, review)
 - [lampo.rs](https://github.com/vincenzopalazzo/lampo.rs) — a small, readable Lightning node
 - Lightning at [OCEAN](https://ocean.xyz)
+- [MiaAI-Lab](https://github.com/MiaAI-Lab): sparkDash + local-AI recipes
 
 **Also**
 - Maintainer of [Material-UI-Swing](https://github.com/vincenzopalazzo/material-ui-swing)
