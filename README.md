@@ -1,57 +1,32 @@
 <div align="center">
   <h1>Vincenzo Palazzo</h1>
-
+  <p><strong>Lightning protocol work: LDK, BOLT12, and lampo.rs.</strong></p>
   <p>
-    <strong>Passion, action and noble intentions create progress!</strong>
+    <a href="https://github.com/sponsors/vincenzopalazzo">GitHub Sponsors</a>
+    ·
+    <a href="https://bitcoindevlist.com/vincenzopalazzo/#vincenzopalazzo">Bitcoin</a>
+    ·
+    <a href="https://vincenzopalazzo.hedwig.sh/">Blog</a>
   </p>
-
-  <p>
-  </p>
-
-  <h4>
-    <a href="https://blog.hedwig.sh"> Personal Blog</a>
-  </h4>
- 
-  <a href="https://github.com/sponsors/vincenzopalazzo">
-    Github Sponsor
-  </a>
-  <span>|</span>
-  <a href="https://bitcoindevlist.com/vincenzopalazzo/#vincenzopalazzo">
-    Bitcoin Sponsor
-  </a>
-  
 </div>
 
-#### 
+I work on the Lightning Network as infrastructure: protocol review in [rust-lightning / LDK](https://github.com/lightningdevkit/rust-lightning), BOLT12, [lnprototest](https://github.com/rustyrussell/lnprototest), and [lampo.rs](https://github.com/vincenzopalazzo/lampo.rs).
 
-- :speech_balloon: libera (IRC): `vincenzopalazzo`
-- :speech_balloon: matrix: @vincenzopalazzo:matrix.org
-- :speech_balloon: keybase: https://keybase.io/vincenzopalazzo
-- 💬 discord: `vincenzopalazzo#3884`
-- :earth_asia: x: https://twitter.com/PalazzoVincenzo
-- :earth_asia: fediverse: https://x0f.org/@vincenzopalazzo
-- 🌏 nostr: [npub1wg2m9ku823y5l5699dlj6294dc3cvwu4g34ldrtelxq20t27clxsd7dzaw](https://nosta.me/7215b2db8754494fd3452b7f2d28b56e23863b95446bf68d79f980a7ad5ec7cd)
-- :black_nib: medium: https://vincenzopalazzo.medium.com
-- :black_nib: dev.to: https://dev.to/vincenzopalazzo
-- 📺 twitch: https://www.twitch.tv/vincenzopalazzodev
+If you use LDK, Core Lightning, or BOLT12, [sponsoring](https://github.com/sponsors/vincenzopalazzo) is how the independent part of that work stays funded.
 
-##  Official roles in some external repositories
+**Now**
+- LDK / rust-lightning (BOLT12, review)
+- [lampo.rs](https://github.com/vincenzopalazzo/lampo.rs) — a small, readable Lightning node
+- Lightning at [OCEAN](https://ocean.xyz)
 
-- Official Maintainer of [Material-UI-Swing](https://github.com/vincenzopalazzo/material-ui-swing)
-- Official Maintainer of [graphql-flutter](https://github.com/zino-app/graphql-flutter)
-- Contributor of [rust](https://github.com/rust-lang/rust) compiler
-- Leading [wg-macros](https://github.com/rust-lang/wg-macros) for the Rust Compiler
+**Also**
+- Maintainer of [Material-UI-Swing](https://github.com/vincenzopalazzo/material-ui-swing)
+- Contributor to the [Rust compiler](https://github.com/rust-lang/rust) (wg-macros)
 
-## Collab
+**Contact**
+- IRC (libera): `vincenzopalazzo`
+- Matrix: `@vincenzopalazzo:matrix.org`
+- X: [@PalazzoVincenzo](https://twitter.com/PalazzoVincenzo)
+- Nostr: [npub1wg2m9ku823y5l5699dlj6294dc3cvwu4g34ldrtelxq20t27clxsd7dzaw](https://nosta.me/7215b2db8754494fd3452b7f2d28b56e23863b95446bf68d79f980a7ad5ec7cd)
 
-- 💻 [starlabs referal](https://bit.ly/3PRTNUH)
-
-## Appendix
-
-:zap: BTC donation https://coinos.io/vincenzopalazzo
-
-:key: GPG Fingerprint: `DDE3 16C1 0965 F23D CCDD 0420 8B6D C2B8 70B8 0D5F`
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vincenzopalazzo&show_icons=true&theme=radical" />
-</div>
+:key: GPG `DDE3 16C1 0965 F23D CCDD 0420 8B6D C2B8 70B8 0D5F`
